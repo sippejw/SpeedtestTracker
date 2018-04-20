@@ -1,0 +1,35 @@
+Time: 21:40:02
+Download: 81.96 Mbit/s
+Upload: 11.71 Mbit/s
+
+
+Time: 22:00:01
+Download: 79.70 Mbit/s
+Upload: 8.43 Mbit/s
+
+
+Time: 22:20:01
+Download: 69.50 Mbit/s
+Upload: 11.01 Mbit/s
+
+
+Time: 22:40:01
+Download: 83.55 Mbit/s
+Upload: 11.69 Mbit/s
+
+
+Time: 23:00:01
+Download: 84.36 Mbit/s
+Upload: 11.70 Mbit/s
+
+
+Time: 23:20:01
+Download: 53.31 Mbit/s
+Upload: 3.11 Mbit/s
+
+
+Time: 23:40:01
+Download: 87.55 Mbit/s
+Upload: 11.79 Mbit/s
+
+

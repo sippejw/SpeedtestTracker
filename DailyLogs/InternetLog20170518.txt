@@ -1,0 +1,360 @@
+Time: 00:00:01
+Download: 77.19 Mbit/s
+Upload: 7.86 Mbit/s
+
+
+Time: 00:20:01
+Download: 77.24 Mbit/s
+Upload: 7.91 Mbit/s
+
+
+Time: 00:40:01
+Download: 42.65 Mbit/s
+Upload: 6.05 Mbit/s
+
+
+Time: 01:00:01
+Download: 84.73 Mbit/s
+Upload: 7.96 Mbit/s
+
+
+Time: 01:20:01
+Download: 80.92 Mbit/s
+Upload: 8.02 Mbit/s
+
+
+Time: 01:40:01
+Download: 84.29 Mbit/s
+Upload: 8.01 Mbit/s
+
+
+Time: 02:00:01
+Download: 78.77 Mbit/s
+Upload: 7.59 Mbit/s
+
+
+Time: 02:20:01
+Download: 86.65 Mbit/s
+Upload: 7.52 Mbit/s
+
+
+Time: 02:40:01
+Download: 67.48 Mbit/s
+Upload: 7.77 Mbit/s
+
+
+Time: 03:00:01
+Download: 55.89 Mbit/s
+Upload: 7.53 Mbit/s
+
+
+Time: 03:20:01
+Download: 80.93 Mbit/s
+Upload: 6.22 Mbit/s
+
+
+Time: 03:40:01
+Download: 85.59 Mbit/s
+Upload: 7.46 Mbit/s
+
+
+Time: 04:00:01
+Download: 55.32 Mbit/s
+Upload: 7.54 Mbit/s
+
+
+Time: 04:20:01
+Download: 79.37 Mbit/s
+Upload: 7.34 Mbit/s
+
+
+Time: 04:40:01
+Download: 78.33 Mbit/s
+Upload: 6.98 Mbit/s
+
+
+Time: 05:00:01
+Download: 79.27 Mbit/s
+Upload: 7.36 Mbit/s
+
+
+Time: 05:20:01
+Download: 78.52 Mbit/s
+Upload: 7.42 Mbit/s
+
+
+Time: 05:40:01
+Download: 68.14 Mbit/s
+Upload: 6.58 Mbit/s
+
+
+Time: 06:00:01
+Download: 81.81 Mbit/s
+Upload: 7.14 Mbit/s
+
+
+Time: 06:20:01
+Download: 77.32 Mbit/s
+Upload: 7.05 Mbit/s
+
+
+Time: 06:40:01
+Download: 77.39 Mbit/s
+Upload: 6.81 Mbit/s
+
+
+Time: 07:00:01
+Download: 72.30 Mbit/s
+Upload: 7.08 Mbit/s
+
+
+Time: 07:20:01
+Download: 56.03 Mbit/s
+Upload: 7.11 Mbit/s
+
+
+Time: 07:40:01
+Download: 67.87 Mbit/s
+Upload: 7.00 Mbit/s
+
+
+Time: 08:00:01
+Download: 80.16 Mbit/s
+Upload: 7.15 Mbit/s
+
+
+Time: 08:20:01
+Download: 75.70 Mbit/s
+Upload: 4.92 Mbit/s
+
+
+Time: 08:40:01
+Download: 55.41 Mbit/s
+Upload: 6.72 Mbit/s
+
+
+Time: 09:00:01
+Download: 71.82 Mbit/s
+Upload: 7.13 Mbit/s
+
+
+Time: 09:20:01
+Download: 77.55 Mbit/s
+Upload: 6.95 Mbit/s
+
+
+Time: 09:40:01
+Download: 70.27 Mbit/s
+Upload: 6.26 Mbit/s
+
+
+Time: 10:00:01
+Download: 74.19 Mbit/s
+Upload: 7.03 Mbit/s
+
+
+Time: 10:20:01
+Download: 41.73 Mbit/s
+Upload: 7.43 Mbit/s
+
+
+Time: 10:40:01
+Download: 4.79 Mbit/s
+Upload: 3.11 Mbit/s
+
+
+Time: 11:00:01
+Download: 57.74 Mbit/s
+Upload: 6.40 Mbit/s
+
+
+Time: 11:20:01
+Download: 76.54 Mbit/s
+Upload: 7.01 Mbit/s
+
+
+Time: 11:40:01
+Download: 81.97 Mbit/s
+Upload: 6.93 Mbit/s
+
+
+Time: 12:00:01
+Download: 73.28 Mbit/s
+Upload: 7.08 Mbit/s
+
+
+Time: 12:20:01
+Download: 69.87 Mbit/s
+Upload: 6.85 Mbit/s
+
+
+Time: 12:40:02
+Download: 55.07 Mbit/s
+Upload: 6.68 Mbit/s
+
+
+Time: 13:00:01
+Download: 72.20 Mbit/s
+Upload: 7.08 Mbit/s
+
+
+Time: 13:20:01
+Download: 77.37 Mbit/s
+Upload: 7.00 Mbit/s
+
+
+Time: 13:40:01
+Download: 77.07 Mbit/s
+Upload: 5.18 Mbit/s
+
+
+Time: 14:00:01
+Download: 76.91 Mbit/s
+Upload: 7.05 Mbit/s
+
+
+Time: 14:20:01
+Download: 63.61 Mbit/s
+Upload: 7.18 Mbit/s
+
+
+Time: 14:40:01
+Download: 75.27 Mbit/s
+Upload: 5.51 Mbit/s
+
+
+Time: 15:00:01
+Download: 83.70 Mbit/s
+Upload: 6.90 Mbit/s
+
+
+Time: 15:20:01
+Download: 56.57 Mbit/s
+Upload: 7.18 Mbit/s
+
+
+Time: 15:40:01
+Download: 78.15 Mbit/s
+Upload: 7.11 Mbit/s
+
+
+Time: 16:00:01
+Download: 72.73 Mbit/s
+Upload: 6.33 Mbit/s
+
+
+Time: 16:20:01
+Download: 82.45 Mbit/s
+Upload: 7.16 Mbit/s
+
+
+Time: 16:40:01
+Download: 79.29 Mbit/s
+Upload: 7.28 Mbit/s
+
+
+Time: 17:00:01
+Download: 35.61 Mbit/s
+Upload: 7.34 Mbit/s
+
+
+Time: 17:20:01
+Download: 83.08 Mbit/s
+Upload: 7.34 Mbit/s
+
+
+Time: 17:40:01
+Download: 81.75 Mbit/s
+Upload: 7.31 Mbit/s
+
+
+Time: 18:00:01
+Download: 82.14 Mbit/s
+Upload: 7.36 Mbit/s
+
+
+Time: 18:20:01
+Download: 65.11 Mbit/s
+Upload: 5.99 Mbit/s
+
+
+Time: 18:40:01
+Download: 80.64 Mbit/s
+Upload: 7.32 Mbit/s
+
+
+Time: 19:00:01
+Download: 83.93 Mbit/s
+Upload: 7.67 Mbit/s
+
+
+Time: 19:20:01
+Download: 26.36 Mbit/s
+Upload: 6.57 Mbit/s
+
+
+Time: 19:40:01
+Download: 79.36 Mbit/s
+Upload: 7.48 Mbit/s
+
+
+Time: 20:00:01
+Download: 77.57 Mbit/s
+Upload: 7.39 Mbit/s
+
+
+Time: 20:20:01
+Download: 83.54 Mbit/s
+Upload: 7.34 Mbit/s
+
+
+Time: 20:40:01
+Download: 59.16 Mbit/s
+Upload: 7.09 Mbit/s
+
+
+Time: 21:00:01
+Download: 71.66 Mbit/s
+Upload: 7.48 Mbit/s
+
+
+Time: 21:20:01
+Download: 80.50 Mbit/s
+Upload: 7.06 Mbit/s
+
+
+Time: 21:40:01
+Download: 76.66 Mbit/s
+Upload: 7.13 Mbit/s
+
+
+Time: 22:00:01
+Download: 75.66 Mbit/s
+Upload: 5.77 Mbit/s
+
+
+Time: 22:20:01
+Download: 77.31 Mbit/s
+Upload: 7.10 Mbit/s
+
+
+Time: 22:40:02
+Download: 77.25 Mbit/s
+Upload: 7.24 Mbit/s
+
+
+Time: 23:00:01
+Download: 67.32 Mbit/s
+Upload: 7.38 Mbit/s
+
+
+Time: 23:20:01
+Download: 83.18 Mbit/s
+Upload: 5.45 Mbit/s
+
+
+Time: 23:40:01
+Download: 82.06 Mbit/s
+Upload: 7.43 Mbit/s
+
+
