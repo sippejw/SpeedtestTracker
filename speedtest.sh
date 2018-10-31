@@ -1,5 +1,5 @@
 #!/bin/bash
 
-JSON=$(speedtest -json)
+JSON=$(speedtest --json)
 
 echo JSON >> timelog
