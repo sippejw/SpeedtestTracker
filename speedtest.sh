@@ -1,2 +1,5 @@
 #!/bin/bash
-perl /etc/speedtest.pl
+
+JSON=$(speedtest --csv)
+
+echo JSON >> timelog
